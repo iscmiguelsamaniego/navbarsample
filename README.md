@@ -2,5 +2,5 @@
 
 A flutter bottom nav sample
 
-## For lerning purpose
+## For learning purpose
 
