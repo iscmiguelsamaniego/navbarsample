@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:navbarsample/samples/BottomNavBarSample.dart';
 import 'package:navbarsample/samples/LoginSample.dart';
-import 'package:navbarsample/samples/MapSample.dart';
 
 void main() {
   runApp(MaterialApp(
